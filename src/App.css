@@ -1,0 +1,8 @@
+#calling_over {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(79, 186, 13, 0.8);
+  position: fixed;
+  top: 0;
+  left: 0;
+}
